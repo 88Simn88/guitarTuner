@@ -156,6 +156,14 @@ const InstrumentsTuner = () => {
             >
                 Activar Micrófono
             </button>
+
+            <div className="border-t border-gray-700 w-2/3 my-2"></div>
+
+            <div className=' flex justify-center gap-5 items-center mt-3 p-0'>
+                <p className=' text-black'>Copyright © 2024</p>
+
+                <p className=' text-black'>Coded by <a className='font-bold text-white' href="https://portfolio-simv3.netlify.app/" target='_blank'>Simn</a> </p>
+            </div>
         </div>
     );
 }
